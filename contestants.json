@@ -478,6 +478,15 @@
          "facebook":"",
          "github":"https://github.com/NeroIS",
          "twitter":""
+    	},
+	   {
+         "name":"Saurabh Kumar",
+         "imageurl":"contestant/avatar.png",
+         "about":"In learning phase",
+         "facebook":"https://www.facebook.com/profile.php?id=100005192435529",
+         "github":"https://github.com/ShiningSaurabh",
+         "twitter":""
     	}
+	   
    ]
 }
